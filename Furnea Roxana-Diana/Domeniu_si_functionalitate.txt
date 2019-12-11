@@ -1,0 +1,5 @@
+Proiect PSSC-pagina Web
+
+Domeniu: Medicina
+Functionalitate: Programari analize medicale
+Cerinta:Implementarea unui sistem software care se bazeaza pe afisarea programarilor la un cabinet de analize medicale si locurile ramase disponibile. Intervalul pentru fiecare analiza medicala este de 30 minute. Asadar, se pot face programari dupa fiecare 30 min in intervalul orar al cabinetului.
