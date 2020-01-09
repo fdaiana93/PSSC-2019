@@ -1,0 +1,5 @@
+Proiect PSSC-pagina Web
+
+Domeniu: Event planner
+Functionalitate: Rezervari pentru petreceri copii spatiu de joaca sau evenimente.
+Cerinta:Implementarea unui sistem software care se bazeaza pe afisarea rezervarilor evenimentelor deja realizate si locurile ramase disponibile, in cazul unei noi rezervari. Un eveniment dureaza de regula 2 ore, dar pot fi evenimente pe orice interval de timp dorit sau chiar pe durata unei zile intregi.  
